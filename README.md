@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 - Clone the repository:
 ```bash
-git clone https://github.com/SINGHxTUSHAR/Sensor-Fault-Detection.git
+git clone [https://github.com/Mayankdelhichandigarh/sensorproject01](https://github.com/Mayankdelhichandigarh/sensorproject01).git
 cd Sensor-Fault-Detection
 ```
 - Create a virtual environment (optional but recommended):
